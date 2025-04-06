@@ -1,0 +1,77 @@
+{
+    "hotels": {
+      "hotel1": {
+        "name": "Grand Palace Hotel",
+        "location": "New York",
+        "rating": 4.8,
+        "price": 250,
+        "amenities": ["Free WiFi", "Pool", "Gym", "Spa"],
+        "category": "Luxury",
+        "available": true
+      },
+      "hotel2": {
+        "name": "Sunny Sands Resort",
+        "location": "Miami",
+        "rating": 4.5,
+        "price": 180,
+        "amenities": ["Beachfront", "Spa", "Bar"],
+        "category": "Beachfront",
+        "available": true
+      },
+      "hotel3": {
+        "name": "Cloud Nine Suites",
+        "location": "San Francisco",
+        "rating": 4.7,
+        "price": 220,
+        "amenities": ["Rooftop", "Gym", "Free WiFi"],
+        "category": "Luxury",
+        "available": false
+      },
+      "hotel4": {
+        "name": "The Serenity Inn",
+        "location": "Los Angeles",
+        "rating": 4.6,
+        "price": 200,
+        "amenities": ["Free Parking", "Pool", "Pet-Friendly"],
+        "category": "Pet-Friendly",
+        "available": true
+      },
+      "hotel5": {
+        "name": "Budget Stay Central",
+        "location": "Chicago",
+        "rating": 4.2,
+        "price": 100,
+        "amenities": ["Free WiFi", "Breakfast Included"],
+        "category": "Budget",
+        "available": true
+      },
+      "hotel6": {
+        "name": "Coastal Breeze Hotel",
+        "location": "San Diego",
+        "rating": 4.2,
+        "price": 150,
+        "amenities": ["Beach Access", "Pool", "Breakfast Included"],
+        "category": "Beachfront",
+        "available": false
+      },
+      "hotel7": {
+        "name": "Skyline Tower Hotel",
+        "location": "New York",
+        "rating": 4.7,
+        "price": 310,
+        "amenities": ["City View", "Gym", "Free WiFi"],
+        "category": "City View",
+        "available": true
+      },
+      "hotel8": {
+        "name": "Greenwood Retreat",
+        "location": "Portland",
+        "rating": 4.3,
+        "price": 170,
+        "amenities": ["Pet-Friendly", "Garden", "Breakfast Included"],
+        "category": "Pet-Friendly",
+        "available": true
+      }
+    }
+  }
+  
